@@ -1,9 +1,12 @@
 #include <iostream>
 using namespace std;
 /*this is for print 
-***
- **
-  *
+
+****
+ ***
+  **
+   *
+   by giveng number
 */
 
 int main()
